@@ -1,6 +1,7 @@
 ## 🎨 10 Days of UI Design Challenge
 
 Welcome to my **#10DaysOfUIDesign** journey!  
+
 Over the next 10 days, I’ll be designing **one UI daily** using Figma — everything from login pages, dashboards, and mobile screens to e-commerce UIs and components.
 
 ---
@@ -16,4 +17,4 @@ Over the next 10 days, I’ll be designing **one UI daily** using Figma — ever
 
 ## 📁 Folder Structure
 
-Each day has its own folder:
+Each day has its own folder
